@@ -9,10 +9,7 @@
             "email": "superwebdeveloper@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {
-        "superwebdeveloper/hello_world": "^1.0"
-    },
+
     "autoload": {
         "psr-0": {
             "HelloWorld": "src/"
