@@ -3,12 +3,7 @@
     "description": "test for packagist",
     "type": "project",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Peter Gordon",
-            "email": "superwebdeveloper@gmail.com"
-        }]
     "require": {
                "php": ">=5.6"
-        }
+            }
 }
