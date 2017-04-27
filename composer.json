@@ -8,11 +8,7 @@
             "name": "Peter Gordon",
             "email": "superwebdeveloper@gmail.com"
         }
-    ],  
-"minimum-stability": "dev",
-    "autoload": {
-        "psr-0": {
-            "HelloWorld": "src/"
+    "require": {
+               "php": ">=5.6"
         }
-    }
 }
