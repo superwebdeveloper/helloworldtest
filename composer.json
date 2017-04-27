@@ -7,7 +7,7 @@
         {
             "name": "Peter Gordon",
             "email": "superwebdeveloper@gmail.com"
-        }
+        }]
     "require": {
                "php": ">=5.6"
         }
